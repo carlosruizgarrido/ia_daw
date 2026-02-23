@@ -50,8 +50,17 @@
 ## 4) Optimización (mejora medible)
 Define 3 métricas con valores antes/después:
 - Tiempo:
+    - Antes: 12 min por factura
+    - Después: 2–3 min (solo revisión cuando aplica)
+    - Mejora estimada: −75% en tiempo de procesamiento
 - Coste:
+    - Antes: 1 administrativo dedicando 4 h/día
+    - Después: 1 administrativo dedicando 1 h/día
+    - Reducción estimada: −60–70% coste en tarea repetitiva
 - Calidad:
+    - Antes: 92–95% exactitud (errores de tecleo)
+    - Después: 98–99% exactitud en extracción validada
+    - Reducción de errores de registro: −70%
 
 ## 5) Diagrama del flujo (ASCII o Mermaid)
 (Pega aquí el diagrama)
