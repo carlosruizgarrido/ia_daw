@@ -63,6 +63,7 @@ Define 3 métricas con valores antes/después:
     - Reducción de errores de registro: −70%
 
 ## 5) Diagrama del flujo (ASCII o Mermaid)
+```mermaid
 flowchart TD
 A[Proveedor envía factura PDF] --> B[IA OCR extrae datos]
 B --> C[Modelo IA estructura campos]
@@ -73,7 +74,7 @@ D -->|Baja confianza o discrepancia| F[Revisión humana]
 
 E --> G[Aprobación final]
 F --> G
-
+```
 ## 6) Riesgos y mitigación
 - Riesgo 1:
 - Mitigación 1:
