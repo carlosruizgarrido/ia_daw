@@ -76,10 +76,19 @@ E --> G[Aprobación final]
 F --> G
 ```
 ## 6) Riesgos y mitigación
-- Riesgo 1:
+- Riesgo 1: Errores en facturas con formato no estándar
+    - Facturas de nuevos proveedores pueden no ser reconocidas correctamente.
 - Mitigación 1:
-- Riesgo 2:
+    - Umbral de confianza mínimo antes del registro automático.
+    - Reentrenamiento continuo con nuevos formatos.
+    - Revisión humana obligatoria en casos nuevos.
+
+- Riesgo 2: Riesgos de seguridad y acceso indebido
+    - Las facturas contienen información financiera sensible.
 - Mitigación 2:
+    - Cifrado en tránsito y en reposo.
+    - Control de accesos por roles.
+    - Cumplimiento del Reglamento General de Protección de Datos (RGPD).
 
 ## 7) Fuente oficial
 - Enlace: 
