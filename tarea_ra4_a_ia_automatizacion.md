@@ -10,13 +10,21 @@
 
 ## 2) ANTES (sin IA)
 - Pasos (5–7):
-  1.
-  2.
-  3.
-  4.
-  5.
-- Tiempo aproximado por caso:
+    1. El proveedor envía la factura en PDF por correo electrónico.
+    2. El administrativo descarga el archivo manualmente.
+    3. Abre la factura y revisa los datos clave (CIF, importe, fecha, número de factura).
+    4. Introduce manualmente los datos en el ERP.
+    5. Adjunta el PDF al registro contable.
+    6. Verifica que los importes coinciden con la orden de compra.
+    7. Envía la factura a aprobación.
+
+- Tiempo aproximado por caso: 10-15 minutos por factura.
 - Problemas / cuellos de botella:
+    - Errores de transcripción (≈5–8%).
+    - Retrasos cuando hay alto volumen mensual.
+    - Fatiga del personal administrativo.
+    - Coste elevado en tareas repetitivas.
+    - Riesgo de pagos incorrectos por error humano.
 
 ## 3) DESPUÉS (con IA)
 - ¿Qué automatiza la IA?
