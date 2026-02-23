@@ -91,4 +91,5 @@ F --> G
     - Cumplimiento del Reglamento General de Protección de Datos (RGPD).
 
 ## 7) Fuente oficial
-- Enlace: 
+- Enlace: Documentación oficial de OCR e IA aplicada a documentos — Google Cloud:
+https://cloud.google.com/vision/docs/ocr
