@@ -63,7 +63,16 @@ Define 3 métricas con valores antes/después:
     - Reducción de errores de registro: −70%
 
 ## 5) Diagrama del flujo (ASCII o Mermaid)
-(Pega aquí el diagrama)
+flowchart TD
+A[Proveedor envía factura PDF] --> B[IA OCR extrae datos]
+B --> C[Modelo IA estructura campos]
+C --> D{Validación con Orden de Compra}
+
+D -->|Coincide y alta confianza| E[Registro automático en ERP]
+D -->|Baja confianza o discrepancia| F[Revisión humana]
+
+E --> G[Aprobación final]
+F --> G
 
 ## 6) Riesgos y mitigación
 - Riesgo 1:
