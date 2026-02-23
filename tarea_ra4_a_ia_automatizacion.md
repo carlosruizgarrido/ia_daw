@@ -1,9 +1,12 @@
 # Práctica IA (RA4 · a) — Automatización y optimización
 
 ## 1) Proceso elegido
-- Nombre del proceso:
-- Contexto (empresa/servicio web/IT):
+- Nombre del proceso: Extracción automática de datos de facturas (Accounts Payable)
+- Contexto (empresa/servicio web/IT): Empresa mediana que gestiona proveedores y recibe facturas en PDF por email
 - Rol/es implicados:
+    - Administrativo/a de contabilidad
+    - Responsable financiero
+    - Departamento de sistemas
 
 ## 2) ANTES (sin IA)
 - Pasos (5–7):
