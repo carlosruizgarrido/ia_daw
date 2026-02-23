@@ -43,7 +43,7 @@
     - Órdenes de compra registradas.
     - Logs de validación y correcciones.
 - Modelo/técnica (NLP, clasificación, recomendación, visión, etc.):
-    - OCR avanzado (ej. tecnología similar a la usada por Google Cloud Vision API). METER LINK A GOOGLE CLOUD VISION API
+    - OCR avanzado (ej. tecnología similar a la usada por [Google Cloud Vision API]([https://cloud.google.com/vision/docs/ocr](https://chatgpt.com/c/699c3748-15a8-8397-be3d-ae32c082b3d9)).
     - Modelos de extracción de información (Information Extraction).
     - Modelos de lenguaje para comprensión contextual.
 
@@ -91,5 +91,4 @@ F --> G
     - Cumplimiento del Reglamento General de Protección de Datos (RGPD).
 
 ## 7) Fuente oficial
-- Enlace: Documentación oficial de OCR e IA aplicada a documentos — Google Cloud:
-https://cloud.google.com/vision/docs/ocr
+- Enlace: Documentación oficial de OCR e IA aplicada a documentos — [Google Cloud]([https://www.google.com](https://cloud.google.com/vision/docs/ocr)):
