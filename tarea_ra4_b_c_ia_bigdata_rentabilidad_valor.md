@@ -71,5 +71,8 @@ Riesgo 2: Data drift (cambio en patrones de consumo)
 - Conclusión razonada: La IA es una inversión estratégica imprescindible para mantener competitividad y rentabilidad. No obstante, su adopción debe ser responsable, transparente y supervisada para garantizar sostenibilidad a largo plazo.
 
 ## 9) Fuentes oficiales (mín. 2)
-- Big Data/analítica (enlace oficial):
-- IA/técnica/modelo (enlace oficial):
+- **Big Data / Analítica (fuente oficial):**  
+  [McKinsey & Company – Analytics & QuantumBlack](https://www.mckinsey.com/capabilities/quantumblack/our-insights)
+
+- **IA / Técnica / Modelo (fuente oficial):**  
+  [Stanford University – AI Index Report (Human-Centered AI Institute)](https://aiindex.stanford.edu/report/)
