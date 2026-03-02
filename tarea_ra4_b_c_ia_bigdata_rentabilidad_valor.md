@@ -27,20 +27,20 @@ Describe por qué es Big Data (volumen, velocidad, variedad). Se manejan grandes
 - Decisión que habilita (qué hace la empresa con esa salida): Mostrar recomendaciones personalizadas y ajustar precios dinámicamente en la web en tiempo real.
 
 ## 5) Rentabilidad: KPIs antes/después (mínimo 3)
-KPI 1 (ingresos/coste/eficiencia):
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 1 (Tasa de conversión):
+- Antes: 2,5%
+- Después: 3,5%
+- Por qué mejora la rentabilidad: Más visitantes terminan comprando, aumentando ingresos sin incrementar tráfico.
 
-KPI 2:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 2 (Ticket medio):
+- Antes: 45 €
+- Después: 52 €
+- Por qué mejora la rentabilidad: Las recomendaciones cruzadas (cross-selling) aumentan el valor por pedido.
 
-KPI 3:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 3 (Margen bruto promedio):
+- Antes: 22%
+- Después: 26%
+- Por qué mejora la rentabilidad: El pricing dinámico optimiza precios según demanda y competencia.
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
 (Pega aquí el diagrama)
