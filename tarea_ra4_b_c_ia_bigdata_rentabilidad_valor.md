@@ -65,10 +65,10 @@ Riesgo 2: Data drift (cambio en patrones de consumo)
     -Monitorización continua de rendimiento y reentrenamiento periódico automático.
 
 ## 8) Valoración (criterio c): importancia presente y futura de la IA (10–15 líneas)
-- Importancia actual (hoy):
-- Importancia futura (3–5 años):
-- Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo):
-- Conclusión razonada:
+- Importancia actual (hoy): La IA permite a las empresas tomar decisiones basadas en datos masivos, mejorar la personalización, optimizar precios y reducir ineficiencias operativas. Incrementa productividad, precisión en la toma de decisiones y competitividad. En sectores digitales, es ya un factor estratégico clave para diferenciarse.
+- Importancia futura (3–5 años): Evolucionará hacia automatización avanzada, integración con IA generativa y sistemas autónomos que optimicen cadenas de suministro y decisiones estratégicas en tiempo real. Aumentará la personalización hipersegmentada y el uso de agentes inteligentes.
+- Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo): Necesidad de datos de calidad, altos costes de infraestructura, cumplimiento normativo (protección de datos), riesgos éticos y posible impacto en el empleo. También es clave la ciberseguridad y la gobernanza del dato.
+- Conclusión razonada: La IA es una inversión estratégica imprescindible para mantener competitividad y rentabilidad. No obstante, su adopción debe ser responsable, transparente y supervisada para garantizar sostenibilidad a largo plazo.
 
 ## 9) Fuentes oficiales (mín. 2)
 - Big Data/analítica (enlace oficial):
