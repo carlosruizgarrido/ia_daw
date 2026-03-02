@@ -14,12 +14,11 @@ Describe por qué es Big Data (volumen, velocidad, variedad). Se manejan grandes
 - Formatos (texto, eventos, series temporales, imágenes, etc.): Logs de eventos, series temporales de precios, texto (búsquedas y reseñas), datos estructurados (transacciones).
 
 ## 3) Tratamiento/análisis: pipeline de datos
-Explica el flujo de forma ordenada: 
-- Ingesta (captura/eventos): 
-- Limpieza/normalización: 
-- Almacenamiento (data lake/warehouse): 
-- Preparación de variables (features): 
-- Análisis/BI (opcional): 
+- Ingesta (captura/eventos): Explica el flujo de forma ordenada: Captura automática de clics y transacciones mediante logs y APIs en tiempo real.
+- Limpieza/normalización: Eliminación de duplicados, tratamiento de valores nulos, normalización de precios y detección de outliers.
+- Almacenamiento (data lake/warehouse): Data Lake en infraestructura cloud distribuida para almacenar datos estructurados y no estructurados.
+- Preparación de variables (features): Variables como frecuencia de compra, sensibilidad al precio, historial de navegación, estacionalidad.
+- Análisis/BI (opcional): Dashboards para segmentación de clientes y análisis de elasticidad precio-demanda.
 
 ## 4) IA aplicada: modelo y decisión
 - Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...):
