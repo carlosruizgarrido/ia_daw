@@ -43,14 +43,26 @@ KPI 3 (Margen bruto promedio):
 - Por qué mejora la rentabilidad: El pricing dinámico optimiza precios según demanda y competencia.
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
-(Pega aquí el diagrama)
-
+```mermaid
+flowchart LR
+    A[Usuarios y mercado] --> B[Ingesta de datos en tiempo real]
+    B --> C[Limpieza y normalización]
+    C --> D[Data Lake en la nube]
+    D --> E[Feature Engineering]
+    E --> F[Modelo IA<br/>Recomendación + Predicción]
+    F --> G[Decisión automática<br/>Precio dinámico + Recomendaciones]
+    G --> H[Mejora en conversión y margen]
+```
 ## 7) Riesgos y mitigación
-Riesgo 1:
-- Mitigación 1:
+Riesgo 1: Sesgo algorítmico
+- El sistema puede favorecer ciertos productos o perfiles de clientes.
+  Mitigación 1:
+    -Auditorías periódicas de equidad, métricas de sesgo y supervisión humana (human-in-the-loop).
 
-Riesgo 2:
-- Mitigación 2:
+Riesgo 2: Data drift (cambio en patrones de consumo)
+- Los modelos pueden perder precisión con el tiempo.
+  Mitigación 2:
+    -Monitorización continua de rendimiento y reentrenamiento periódico automático.
 
 ## 8) Valoración (criterio c): importancia presente y futura de la IA (10–15 líneas)
 - Importancia actual (hoy):
