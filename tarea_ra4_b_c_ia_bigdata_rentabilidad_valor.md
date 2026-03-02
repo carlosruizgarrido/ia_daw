@@ -21,10 +21,10 @@ Describe por qué es Big Data (volumen, velocidad, variedad). Se manejan grandes
 - Análisis/BI (opcional): Dashboards para segmentación de clientes y análisis de elasticidad precio-demanda.
 
 ## 4) IA aplicada: modelo y decisión
-- Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...):
-- Entrada del modelo (qué datos usa):
-- Salida del modelo (qué produce):
-- Decisión que habilita (qué hace la empresa con esa salida):
+- Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...): Recomendación (filtrado colaborativo + machine learning supervisado). Predicción (modelos de regresión para demanda y elasticidad).
+- Entrada del modelo (qué datos usa): Historial de compras, comportamiento de navegación, precios actuales, stock disponible y datos de competencia.
+- Salida del modelo (qué produce): Lista personalizada de productos recomendados. Precio óptimo estimado para maximizar margen y probabilidad de compra.
+- Decisión que habilita (qué hace la empresa con esa salida): Mostrar recomendaciones personalizadas y ajustar precios dinámicamente en la web en tiempo real.
 
 ## 5) Rentabilidad: KPIs antes/después (mínimo 3)
 KPI 1 (ingresos/coste/eficiencia):
