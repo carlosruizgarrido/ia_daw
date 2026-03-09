@@ -176,8 +176,9 @@ A --> F[Datos de transporte]
 A --> G[Datos de tráfico de red]
 A --> H[Datos de estudiantes]
 ```
+---
 
-6) Riesgos y mitigación
+# 6) Riesgos y mitigación
 
 Riesgo 1:
 Dependencia tecnológica de sistemas automatizados.
@@ -189,7 +190,9 @@ Falta de datos de calidad para entrenar los modelos.
 Mitigación 2:
 Aplicar procesos de control y validación de datos antes de entrenar los sistemas de IA.
 
-7) Conclusión
+---
+
+# 7) Conclusión
 
 - Qué sectores destacan más:
   La logística, la ciberseguridad y la educación están adoptando rápidamente la IA para optimizar procesos, mejorar la seguridad y personalizar el aprendizaje.
@@ -198,10 +201,12 @@ Aplicar procesos de control y validación de datos antes de entrenar los sistema
 - Qué importancia tiene esto para DAW/DAM:
   Los desarrolladores pueden crear aplicaciones inteligentes que integren análisis de datos, detección automática de problemas o sistemas educativos personalizados.
 
-8) Fuentes oficiales (mín. 2)
+---
 
-Fuente 1 (sectores / aplicación IA):
-European Commission – [Artificial Intelligence](https://digital-strategy.ec.europa.eu)
+# 8) Fuentes oficiales (mín. 2)
+
+- Fuente 1 (sectores / aplicación IA):
+- European Commission – [Artificial Intelligence](https://digital-strategy.ec.europa.eu)
 
 Fuente 2 (lenguajes / ecosistema técnico):
 [Python Software Foundation](https://www.python.org)
