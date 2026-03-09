@@ -206,7 +206,6 @@ Aplicar procesos de control y validación de datos antes de entrenar los sistema
 # 8) Fuentes oficiales (mín. 2)
 
 - Fuente 1 (sectores / aplicación IA):
-- European Commission – [Artificial Intelligence](https://digital-strategy.ec.europa.eu)
-
-Fuente 2 (lenguajes / ecosistema técnico):
-[Python Software Foundation](https://www.python.org)
+  European Commission – [Artificial Intelligence](https://digital-strategy.ec.europa.eu)
+- Fuente 2 (lenguajes / ecosistema técnico):
+  [Python Software Foundation](https://www.python.org)
