@@ -31,7 +31,7 @@
 ```mermaid
 flowchart LR
     U[Usuario] --> W[App Web]
-    W --> B[Backend (API REST)]
+    W --> B[Backend API REST]
     B --> IA[Modelo de IA]
     IA --> R[Recomendaciones]
     R --> W
