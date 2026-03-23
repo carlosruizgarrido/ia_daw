@@ -37,3 +37,13 @@ flowchart LR
     R --> W
     W --> U
 ```
+## 7) Riesgos
+- Riesgo 1: Uso de datos personales
+- Mitigación 1: Anonimización y cumplimiento de GDPR
+- Riesgo 2: Recomendaciones incorrectas
+- Mitigación 2: Mejora continua del modelo y feedback del usuario
+
+## 8) Fuente
+- [Enlace](https://scikit-learn.org/stable/tutorial/index.html)
+
+Realizado por: Carlos Manuel Ruiz Garrido
